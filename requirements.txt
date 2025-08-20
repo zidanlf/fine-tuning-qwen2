@@ -1,0 +1,25 @@
+# Core ML Libraries
+torch>=2.0.0
+transformers>=4.35.0
+datasets>=2.14.0
+accelerate>=0.24.0
+peft>=0.7.0
+trl<0.9.0
+bitsandbytes>=0.41.0
+xformers>=0.0.22
+
+# Unsloth (install from git)
+# unsloth @ git+https://github.com/unslothai/unsloth.git
+
+# Data Processing
+pandas>=1.5.0
+numpy>=1.24.0
+pyarrow>=10.0.0
+
+# Excel support
+openpyxl>=3.1.0
+xlsxwriter>=3.1.0
+
+# CUDA support (optional, for GPU acceleration)
+# torch-audio>=2.0.0  # uncomment if needed
+# torchvision>=0.15.0  # uncomment if needed
