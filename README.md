@@ -73,7 +73,13 @@ python fine_tuning_script.py
 
 ## 📈 Evaluation
 
-Script akan menghasilkan beberapa file evaluasi:
+### Hasil Akurasi
+Fine-tuning model menunjukkan peningkatan signifikan:
+- **Sebelum fine-tuning**: 0.41920374710 (41.92%)
+- **Setelah fine-tuning**: 0.5878220141 (58.78%)
+- **Peningkatan**: +16.86%
+
+📊 **Detail hasil evaluasi**: [Google Sheets](https://docs.google.com/spreadsheets/d/1hr8R4nixQsDC5cGGENTOLUW1jPCS_lltVRIeOzenBvA/edit?gid=593293983#gid=593293983)
 
 | File | Deskripsi |
 |------|-----------|
@@ -160,8 +166,8 @@ print(f"{start_gpu_memory} GB of memory reserved.")
 ## 📧 Contact
 
 - Email: zidannalfarizi@gmail.com
-- GitHub: [@yourusername](https://github.com/zidanlf)
-- LinkedIn: [Your Name](www.linkedin.com/in/zidanalfarizi)
+- GitHub: [zidanlf](https://github.com/zidanlf)
+- LinkedIn: [Zidan Alfarizi](www.linkedin.com/in/zidanalfarizi)
 
 ## 🙏 Acknowledgments
 
